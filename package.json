@@ -1,0 +1,24 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurent-thuy/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Laurent-Thuy <laurent_soublin@hotmail.com> (https://github.com/laurent-thuy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laurent-thuy/starwars-names/issues"
+  },
+  "homepage": "https://github.com/laurent-thuy/starwars-names#readme"
+}
